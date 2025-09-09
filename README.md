@@ -52,4 +52,4 @@ Upload a handwritten prescription image and the system will:
 
 ---
 
-Pipeline Process
+Pipeline Process .....
